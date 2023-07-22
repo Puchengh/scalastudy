@@ -12,7 +12,7 @@
         <manven.compiler.source>1.8</manven.compiler.source>
         <mavnen.compiler.target>1.8</mavnen.compiler.target>
         <scala.version>2.10.6</scala.version>
-        <spark.version>2.2.0</spark.version>
+        <spark.version>2.2.3</spark.version>
         <hadoop.version>2.8.5</hadoop.version>
         <encoding>UTF-8</encoding>
 
